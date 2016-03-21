@@ -150,6 +150,10 @@ header .header-content .header-content-inner h3 {
     margin-top: 0;
 }
 
+#portfolio {
+    background-color: #222;
+}
+
 .portfolio-box {
     display: block;
     position: relative;
